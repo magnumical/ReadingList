@@ -2,6 +2,11 @@
 I'd like to organize my reading lists!
 #### Note that the list is not complete!
 
+##### Contents
+1. Graph Neural Networks
+
+
+### Graph Neural Networks
 | Name          | Author        | What I learned! |
 | ------------- | ------------- | ------------- |
 | [Python for Graph and Network Analysis](https://www.springer.com/gp/book/9783319530031)  |  Al-Taie and Kadry  | Getting familiar with graphs and primary ideas behind graph theory. Also I learned working on node level data  |
