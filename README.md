@@ -21,7 +21,6 @@ I'd like to organize my reading lists!
 | [Mitigating Adversarial Attacks on Medical Image Understanding Systems](https://ieeexplore.ieee.org/document/9098740)  | Paul et al. | Learning Adversarial Attacks |
 | [Generalizability vs. robustness: investigating medical imaging networks using adversarial examples](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_56)  | Paschali et al. | Learning Adversarial Attacks |
 | [A Gentle Introduction to Deep Learning in Medical Image Processing](https://arxiv.org/abs/1810.05401)  | Maier et al. | Great review on DeepLearning usage in medical tech. |
-| [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/abs/1804.05296)  | Maier et al. | Learning Adversarial Attacks |
-| [Vulnerability of deep neural networks for detecting COVID-19 cases from chest X-ray images to universal adversarial attacks
-](https://arxiv.org/abs/2005.11061)  | Maier et al. | Learning Adversarial Attacks |
+| [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/abs/1804.05296)  | Finlayson et al. | Learning Adversarial Attacks |
+| [Vulnerability of deep neural networks for detecting COVID-19 cases from chest X-ray images to universal adversarial attacks] (https://arxiv.org/abs/2005.11061)  | Hirano et al. | Learning Adversarial Attacks |
 
