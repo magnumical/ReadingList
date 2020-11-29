@@ -23,5 +23,6 @@ I'd like to organize my reading lists!
 | [A Gentle Introduction to Deep Learning in Medical Image Processing](https://arxiv.org/abs/1810.05401)  | Maier et al. | Great review on DeepLearning usage in medical tech. |
 | [Adversarial Attacks Against Medical Deep Learning Systems](https://arxiv.org/abs/1804.05296)  | Finlayson et al. | Learning Adversarial Attacks |
 | [Vulnerability of deep neural networks for detecting COVID-19 cases from chest X-ray images to universal adversarial attacks](https://arxiv.org/abs/2005.11061)  | Hirano et al. | Learning Adversarial Attacks |
+| [Gradient-based learning applied to document recognition](https://ieeexplore.ieee.org/document/726791)  | Lecun et al. | They proposed LeNet |
 
 
